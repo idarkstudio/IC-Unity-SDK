@@ -15,7 +15,7 @@ var WebGLFunctions = {
   },
   SetUserName: function (json) {
     try {
-      window.dispatchReactUnityEvent("SetNameUser", UTF8ToString(json) );
+      window.dispatchReactUnityEvent("SetUserName", UTF8ToString(json) );
     } catch (e) {
       console.warn("Failed to dispatch event");
     }
