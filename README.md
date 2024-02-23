@@ -4,7 +4,7 @@ Este es un paquete de Unity que proporciona las herramientas para realizar una c
 
 ## Instalación
 
-1. [Instala Newtonsoft Json]() para la lectura interna de json
+1. [Instala Newtonsoft Json](../docs/InstalarNewtonsoftJson.md) para la lectura interna de json
 2. Dirígete a la sección de [Releases](https://github.com/idarkstudio/IC-Unity-SDK/releases/tag/0.0.1) en GitHub.
 3. Descarga la última versión del paquete.
 4. Abre tu proyecto de Unity.
