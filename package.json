@@ -1,8 +1,8 @@
 {
-    "name": "Ic-Unity-SDK",
+    "name": "com.ids.ic-unity-sdk",
     "version": "0.0.1",
-    "displayName": "unity template of ic",
-    "description": "Connect with ic using WebGl",
+    "displayName": "Unity template of IC",
+    "description": "Connect with IC using WebGl",
     "unity": "2019.4",
     "repository": {
       "type": "git",
